@@ -2,6 +2,8 @@
 
 This app is just a demo for a talk at GDG Mosta Event.
 
+<img src="https://raw.githubusercontent.com/akram09/GdgMostaDemo/master/screenshot.png" alt="screenshot" class="inline"/>
+
 ---
 ## Developers:
 The app is developed by:
@@ -9,4 +11,4 @@ The app is developed by:
 
 
 ## Installation:
-Just build the apk and enjoy the awesome demo
+Just build the apk and enjoy the awesome demo.
